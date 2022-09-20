@@ -34,7 +34,7 @@ Well, maybe that’s not fair to say. It’s hard for things to be completely br
 
 The good news is that I was able to complete mods on the two other models: one a Game Boy Advance, and one a Game Boy Advance SP. You can see a photo of the former below.
 
-[](https://images.squarespace-cdn.com/content/v1/61c1894d76fd1365e7917b5e/1643999267222-P43V3BDOL0SP4SE4Y8UP/IMG_0747.jpg)[![IMG_0015.jpg](https://images.squarespace-cdn.com/content/v1/61c1894d76fd1365e7917b5e/1643999312787-JWSTMF0XYBBTLBKMTX1O/IMG_0015.jpg?format=750w)](https://images.squarespace-cdn.com/content/v1/61c1894d76fd1365e7917b5e/1643999312787-JWSTMF0XYBBTLBKMTX1O/IMG_0015.jpg)
+[Modded GBA.jpg]()
 
 The process for the SP model was kind of tough. Specifically, with the hinges, it’s a bit challenging to get the ribbon cable that connects the screen (in the top half of the clamshell), to the motherboard (in the bottom half of the clamshell) looped and through the designed holes in the plastic. Even in the mod I completed, my ribbon cable is a bit pinched.
 
