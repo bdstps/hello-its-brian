@@ -6,7 +6,7 @@ pubDate: Feb 20 2022
 ---
 <!--StartFragment-->
 
-You can’t say I didn’t warn you. I’ve made it abundantly clear that [all I want in life is to have a 100,000 subscriber YouTube plaque](https://www.helloitsbrian.com/blog/100000) to adorn my walls.
+You can’t say I didn’t warn you. I’ve made it abundantly clear that [all I want in life is to have a 100,000 subscriber YouTube plaque](https://www.helloitsbrian.com/blog/i-want-a-100000-subscriber-youtube-plaque) to adorn my walls.
 
 This goal could, of course, be finished rather quickly if I allowed myself to get a random plaque off of eBay. But I’m stubborn. I’d rather put in the effort to get one that I know would look good than pay to acquire one that has a stupid channel name on it.
 

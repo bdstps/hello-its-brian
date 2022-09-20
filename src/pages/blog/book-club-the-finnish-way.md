@@ -8,8 +8,6 @@ I’m on a mission to read more books this year than I ever have. By finishing m
 
 Seriously though, my plan was to read at least twelve books in 2022. One for each month of the year. I anticipate that I will smash through that, but sometimes it’s nice to destroy goals.
 
-Follow along for a recap of what I’ve read. [](https://www.helloitsbrian.com/blog/category/book+club)
-
 ## the search for *sisu*
 
 I bought this book for a couple of reasons:

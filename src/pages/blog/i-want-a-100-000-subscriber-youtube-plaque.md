@@ -6,11 +6,11 @@ pubDate: "Jan 20 2022"
 ---
 I like to think that I’m a person who keeps reasonable goals.
 
-I want to learn how to code. I want to keep consistent updates on a blog. I want to entertain people and enjoy life. I want to travel and see new places ([or just Norway](https://www.helloitsbrian.com/blog/planning-two-norway-trips)).
+I want to learn how to code. I want to keep consistent updates on a blog. I want to entertain people and enjoy life. I want to travel and see new places ([or just Norway](https://www.helloitsbrian.com/blog/planning-two-trips-to-norway-in-2022)).
 
 But for every ten rational, sometimes even simple goals, I have one goal that’s just stupid. It’s usually the case that these goals come and go. I’ll think of them, dream on them for a while, and then I’ll wake up one day not remembering it was something I ever thought about.
 
-As I’ve said previously, [brains are stupid](https://www.helloitsbrian.com/blog/atomic-habits).
+As I’ve said previously, [brains are stupid](https://www.helloitsbrian.com/blog/book-club-atomic-habits).
 
 But there is one goal that I’ve had for a long time that has stuck around. It’s been around a long enough time that you would think I would have taken action on it by now. But no, I haven’t. After all, I’ve heard the best way to achieve something is by moving imperceptibly slowly towards it.
 

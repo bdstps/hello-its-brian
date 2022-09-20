@@ -6,7 +6,7 @@ pubDate: Mar 22 2022
 ---
 *Sorry I haven’t written in a few weeks, I’ve been a little busy.*
 
-I came back from ten days in Norway last night. [Remember when I said I was going to Norway?](https://www.helloitsbrian.com/blog/planning-two-norway-trips) I went to Norway.
+I came back from ten days in Norway last night. [Remember when I said I was going to Norway?](https://www.helloitsbrian.com/blog/planning-two-trips-to-norway-in-2022) I went to Norway.
 
 Aside from a quick three-day jaunt in Berlin back in 2017 before I met up with some friends (incidentally, in Norway) to continue a trip, this was the first time that I had solo traveled alone.
 
