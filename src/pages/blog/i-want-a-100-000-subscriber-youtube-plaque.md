@@ -3,7 +3,6 @@ layout: ../../layouts/BlogPost.astro
 title: i want a 100,000 subscriber youtube plaque
 description: detailing the pursuit of a personal white whale
 pubDate: "Jan 20 2022"
-heroImage: src/assets/100000.png
 ---
 I like to think that I’m a person who keeps reasonable goals.
 
@@ -52,8 +51,6 @@ Imagine buying a display of achievement that you had no part of, and then not be
 But, though it may be against the terms, there have been known entities who have auctioned them off. And you can bet that I showed up for those auctions. And if you think I’m kidding... here’s a screenshot from a recent Ludwig stream.
 
 ![](https://images.squarespace-cdn.com/content/v1/61c1894d76fd1365e7917b5e/af48f9e4-b1f5-410d-a9a1-2cf3bc664bb7/Ludwig+YT+Plaque.png?format=750w)
-
-[Twitter Tweet](https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2V4cGVyaW1lbnRzX2Nvb2tpZV9leHBpcmF0aW9uIjp7ImJ1Y2tldCI6MTIwOTYwMCwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvZmYiLCJ2ZXJzaW9uIjpudWxsfX0%3D&frame=false&hideCard=false&hideThread=false&id=1478911487519301634&lang=en&origin=https%3A%2F%2Fwww.helloitsbrian.com%2Fblog%2F100000&sessionId=c1e714de8f5a9e6b286c5421dd5c6c43af4b8d28&theme=light&widgetsVersion=1bfeb5c3714e8%3A1661975971032&width=550px)
 
 Relax.
 

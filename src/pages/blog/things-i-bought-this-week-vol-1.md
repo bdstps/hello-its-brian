@@ -3,7 +3,6 @@ layout: ../../layouts/BlogPost.astro
 title: things i bought this week (vol.1)
 description: walking through some stuff i bough
 pubDate: "Dec 30 2021"
-heroImage: src/assets/bought-1.png
 ---
 One of the best parts of earning money is when you get to spend that money. The obvious exception to that statement is when you're spending that money to pay your rent or mortgage, but usually spending money is fun. 
 

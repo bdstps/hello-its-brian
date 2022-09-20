@@ -3,7 +3,6 @@ layout: "../../layouts/BlogPost.astro"
 title: my 2021 obsessions
 description: some of the things that i hyper-fixated on in 2021
 pubDate: "Dec 27 2021"
-heroImage: src/assets/obsessions-2021.png
 ---
 Ever since I started scrolling through TikToks a couple of years ago, I’ve come to realize a few things:
 
