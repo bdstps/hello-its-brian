@@ -2,8 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: My Test Blog
 description: Test Blog Description
-publishDate: Mar 31 2022
-heroImage: /assets/placeholder-hero.jpg
+pubDate: Mar 31 2022
 ---
 This is the body of my test blog.
 
