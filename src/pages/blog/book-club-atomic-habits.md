@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogPost.astro
 title: "book club: atomic habits"
 description: review of james clear's atomic habits
-pubDate: 2022-01-17T04:51:29.455Z
-heroImage: /assets/atomic-habits-hero.png
+pubDate: "Jan 17 2022"
+heroImage: src/assets/atomic-habits-hero.png
 ---
 One of my goals for 2022 was to read more. More books, specifically. I think it’s interesting how much we discount the vast amounts of reading we do daily online. A lot of it is frivolous reading (a lot of Reddit and baseball trade rumors for me), but there is also a good deal of reading I do online that pertains to self-betterment, and other things like that.
 

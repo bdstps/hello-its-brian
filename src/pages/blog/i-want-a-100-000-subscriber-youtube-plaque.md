@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogPost.astro
 title: i want a 100,000 subscriber youtube plaque
 description: detailing the pursuit of a personal white whale
-pubDate: 2022-01-21T04:52:53.704Z
-heroImage: /assets/100000.png
+pubDate: "Jan 20 2022"
+heroImage: src/assets/100000.png
 ---
 I like to think that I’m a person who keeps reasonable goals.
 

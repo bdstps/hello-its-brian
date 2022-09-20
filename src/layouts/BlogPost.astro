@@ -14,7 +14,7 @@ export interface Props {
 }
 
 const {
-	content: { title, description, pubDate, updatedDate, heroImage },
+	content: { title, description, pubDate, heroImage },
 } = Astro.props;
 ---
 
@@ -47,7 +47,6 @@ const {
 				)}
 				<h1 class="title">{title}</h1>
 				{pubDate}
-				{updatedDate && <div>Last updated on <time>{updatedDate}</time></div>}
 				<hr/>
 				<slot />
 			</article>
