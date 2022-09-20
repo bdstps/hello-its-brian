@@ -32,7 +32,11 @@ Getting started was stressfu—and I broke a Game Boy Pocket.
 
 Well, maybe that’s not fair to say. It’s hard for things to be completely broken beyond repairability when soldering. If there’s one thing I learned, it’s that it’s a very reversible process. But with my limited knowledge of how things work, as soon as it doesn’t boot up anymore, it may as well be completely dead.
 
+<<<<<<< HEAD
 The good news is that I was able to complete mods on the two other models: one a Game Boy Advance, and one a Game Boy Advance SP.
+=======
+The good news is that I was able to complete mods on the two other models: one a Game Boy Advance, and one a Game Boy Advance SP. You can see a photo of the former below.
+>>>>>>> 39d9da05159a5bdc66ba24ff5cc03f029d7ef836
 
 The process for the SP model was kind of tough. Specifically, with the hinges, it’s a bit challenging to get the ribbon cable that connects the screen (in the top half of the clamshell), to the motherboard (in the bottom half of the clamshell) looped and through the designed holes in the plastic. Even in the mod I completed, my ribbon cable is a bit pinched.
 
