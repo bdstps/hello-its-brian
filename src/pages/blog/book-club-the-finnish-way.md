@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: "book club: the finnish way"
 description: review of katja panzer's the finnish way
-pubDate: Jan 28th 2022
+pubDate: Jan 28 2022
 ---
 I’m on a mission to read more books this year than I ever have. By finishing my second book, I have achieved this goal (unconfirmed).
 
