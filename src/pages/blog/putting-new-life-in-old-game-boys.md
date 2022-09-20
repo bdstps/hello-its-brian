@@ -34,8 +34,6 @@ Well, maybe that’s not fair to say. It’s hard for things to be completely br
 
 The good news is that I was able to complete mods on the two other models: one a Game Boy Advance, and one a Game Boy Advance SP. You can see a photo of the former below.
 
-![](/assets/Modded GBA.jpg)
-
 The process for the SP model was kind of tough. Specifically, with the hinges, it’s a bit challenging to get the ribbon cable that connects the screen (in the top half of the clamshell), to the motherboard (in the bottom half of the clamshell) looped and through the designed holes in the plastic. Even in the mod I completed, my ribbon cable is a bit pinched.
 
 But the regular Game Boy Advance? That thing is easy. Drop a new screen in, solder six points, close the shell, put in the battery. Done. There are no tight squeezes, no body modifications that need to be done. It’s just simple the whole way through.
