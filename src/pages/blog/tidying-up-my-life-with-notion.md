@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: tidying up my life with notion
 description: the point comes when we must turn to software to compile our brains
-pubDate: Jan 23rd 2022
+pubDate: Jan 23 2022
 ---
 For all the ways that I am put together, there are so many more ways that I absolutely am not.
 
