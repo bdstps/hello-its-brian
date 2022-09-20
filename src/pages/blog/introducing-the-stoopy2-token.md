@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: "../../layouts/BlogPost.astro"
 title: introducing the stoopy2 token
 description: i made my own cryptocurrency
 pubDate: "Dec 23 2022"
