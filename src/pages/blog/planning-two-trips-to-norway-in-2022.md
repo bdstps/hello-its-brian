@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: planning two trips to norway in 2022
 description: documenting a couple of planned trips abroad
-pubDate: 2021-01-13T03:11:11.780Z
+pubDate: "Jan 13 2022"
 heroImage: /assets/norway-hero.png
 ---
 In the last week, I've planned (kind of) and booked two separate, transatlantic trips. Both are heading to the same place.
