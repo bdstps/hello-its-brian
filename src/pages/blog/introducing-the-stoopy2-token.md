@@ -2,8 +2,8 @@
 layout: "../../layouts/BlogPost.astro"
 title: introducing the stoopy2 token
 description: i made my own cryptocurrency
-pubDate: "Dec 23 2022"
-heroImage: /assets/s2-blog.png
+pubDate: "Dec 23 2021"
+heroImage: src/assets/s2-blog.png
 ---
 *I promise this won’t be a cryptocurrency blog. I just wanted to share a fun Wednesday-night-before-Christmas-project I worked on.*
 
